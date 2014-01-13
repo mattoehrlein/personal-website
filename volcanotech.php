@@ -24,11 +24,6 @@
 			<p>
 				Volcano Technologies is an electronics design company that I started.
 			</p>
-			<p>
-				So what did I learn? I learned that as soon as I opened my virtual doors for
-				business, I had competitors. Big, scary, well-established competitors, with capital,
-				an existing repuation and connections.
-			</p>
-			<a href = "http://www.volcanoproductdesign.com/" target="_blank">www.volcanoproductdesign.com</a>
+			<a href = "http://www.volcanotechnologies.com/" target="_blank">www.volcanotechnologies.com</a>
 		</div>
 	</body>
