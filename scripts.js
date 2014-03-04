@@ -66,6 +66,7 @@ var generateQuote = function(){
 	quotes[5]=new quote("You can't use up creativity. The more you use, the more you have.", "Maya Angelou", 48);
 	quotes[6]=new quote("Dream big and dare to fail.", "Norman Vaughan",48);
 	quotes[7]=new quote("The way to get started is to quit talking and begin doing.", "Walt Disney", 48);
+	quotes[8]=new quote("Doubt kills more dreams than failure evert will.", "Unknown", 48);
 						
 	// /end add new quotes					
 	var randQuoteIndex=Math.floor(Math.random()*quotes.length);
