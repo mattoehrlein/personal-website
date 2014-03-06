@@ -34,7 +34,7 @@
 			<div id = "About">
 			<p>
 				Hi. Since you're on this site, you probably want to learn something about me.
-				You've come to the right place. My vision for this site is to function as
+				You've come to the right place. My vision is for this site to function as
 				an interactive resumé built for the age of the internet. Why do we still use paper resumés anyways?
 			</p>
 			</div> <!-- end "About" -->
@@ -48,10 +48,13 @@
 						BS Electrical Engineering, University of Minnesota
 					</li>
 					<li>
+						President, Volcano Technologies
+					</li>
+					<li>
 						President, i3Detroit
 					</li>
 					<li>
-						Senior Controls Engineer, Eaton Corporation - Global Research & Technology 
+						Senior Controls Engineer, Eaton Corporation - Corporate Research & Technology 
 					</li>
 					<li>
 						Associate Electrical Engineer, Logic Product Development
