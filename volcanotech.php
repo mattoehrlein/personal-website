@@ -24,6 +24,6 @@
 			<p>
 				Volcano Technologies is an electronics design services company that I started.
 			</p>
-			<a href = "http://volcanotechnologies.com/" target="_blank">www.volcanotechnologies.com</a>
+			<a href = "http://volcanotechnologies.com/" target="_blank">volcanotechnologies.com</a>
 		</div>
 	</body>
