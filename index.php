@@ -36,7 +36,7 @@
 			<p>
 				Hi. Since you're on this site, you probably want to learn something about me.
 				You've come to the right place. My vision is for this site to function as
-				an interactive resumé built for the age of the internet. Why do we still use paper resumés anyways?
+				an interactive resumé built for the age of the internet. Why do we still use paper resumés anyway?
 			</p>
 			</div> <!-- end "About" -->
 			<h2>Experience:</h2>
