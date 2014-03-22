@@ -74,6 +74,13 @@
 					<img src = "./content/img/mindflame.jpg"/>
 				</li>
 				<li>
+					<div class="project-overlay"><a href="volcanotech.php"><span></span></a>
+						<div class="project-overlay-header">Volcano Technologies</div>
+						<div class="project-overlay-text">An Electronics Design Company</div>
+					</div>
+					<img src = "./content/img/volcano.jpg"/>
+				</li>
+				<li>
 					<div class="project-overlay"><a href="i3detroit.php"><span></span></a>
 						<div class="project-overlay-header">i3 Detroit</div>
 						<div class="project-overlay-text">A community-run co-working space</div>

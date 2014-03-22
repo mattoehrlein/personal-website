@@ -20,9 +20,9 @@
 		</div>
 		<div id="content" class = "center">
 			<h1>Volcano Technologies LLC</h1>
-			<img src = "./content/img/i3detroit.jpg" class="center border">
+			<img src = "./content/img/volcano.jpg" class="center border">
 			<p>
-				Volcano Technologies is an electronics design company that I started.
+				Volcano Technologies is an electronics design services company that I started.
 			</p>
 			<a href = "http://www.volcanotechnologies.com/" target="_blank">www.volcanotechnologies.com</a>
 		</div>
