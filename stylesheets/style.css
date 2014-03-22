@@ -133,6 +133,21 @@ ul {
 	left: -400px;
 }
 
+#mc_embed_signup_title{
+	
+}
+
+/* Add your own MailChimp form style overrides in this style block. */
+
+#mc_embed_signup{
+	/*background:#fff; 
+	clear:left; */
+	display:block;
+	position: relative;
+	font:14px Helvetica,Arial,sans-serif; 
+}
+
+
 p{
 	font-weight:100;
 }
