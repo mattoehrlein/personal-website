@@ -70,7 +70,7 @@
 				<li>
 					<div class="project-overlay"><a href="mindflame.php"><span></span></a>
 						<div class="project-overlay-header">Mind Flame</div>
-						<div class="project-overlay-text">A branwave activated flame effects display</div>
+						<div class="project-overlay-text">A brainwave activated flame effects display</div>
 					</div>
 					<img src = "./content/img/mindflame.jpg"/>
 				</li>
