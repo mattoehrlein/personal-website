@@ -77,7 +77,7 @@
 				<li>
 					<div class="project-overlay"><a href="volcanotech.php"><span></span></a>
 						<div class="project-overlay-header">Volcano Technologies</div>
-						<div class="project-overlay-text">An Electronics Design Company</div>
+						<div class="project-overlay-text">An electronics design company</div>
 					</div>
 					<img src = "./content/img/volcano.jpg"/>
 				</li>
