@@ -49,6 +49,9 @@
 						BS Electrical Engineering, University of Minnesota
 					</li>
 					<li>
+					  Co-Founder, MegaBots Inc.
+					</li>
+					<li>
 						President, Volcano Technologies
 					</li>
 					<li>
